@@ -1,2 +1,0 @@
-zeile 1 von main
-zeile 2 von branch_1
